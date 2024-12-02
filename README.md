@@ -1,15 +1,6 @@
 # Learning_From_Mistakes
 Learning From Mistakes: A Multi-level Optimization Framework (Official Pytorch implementation for applications to Neural Architecture Search (NAS) and Data Reweighting (DR)).
 
-
-================================================================================================================================================================
-
-
-This is the code for the paper:
-Learning From Mistakes: A Multi-level Optimization Framework 
-Li Zhang, Bhanu Garg, Pradyumna Sridhara, Ramtin Hosseini, Eric Xing, Pengtao Xie 
-
-
 ## Setups
 The requiring environment is as bellow:  
 
